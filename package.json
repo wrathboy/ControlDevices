@@ -1,0 +1,24 @@
+{
+  "name": "dispocitivos",
+  "version": "1.0.0",
+  "description": "catalogo de dispositivos que manejamos en la conexion de la casa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wrathboy@github.com/wrathboy/ControlDevices.git"
+  },
+  "keywords": [
+    "david",
+    "node",
+    "dispositivos"
+  ],
+  "author": "david alejandro lopez gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrathboy/ControlDevices/issues"
+  },
+  "homepage": "https://github.com/wrathboy/ControlDevices#readme"
+}
